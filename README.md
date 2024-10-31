@@ -21,4 +21,4 @@ Ce site web permet de gérer les ventes de voitures pour une concession, avec de
 ## Installation
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/ton-nom-utilisateur/GestionVenteVoiture.git
+   git clone https://github.com/franckolangas/GestionVenteVoiture.git
